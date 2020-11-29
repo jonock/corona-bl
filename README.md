@@ -15,6 +15,4 @@ Corona-BL.ch basiert auf den Daten des Kantons Basel-Landschaft. Die Bevölkerun
 
 Diese Seite wurde gebaut von Jonathan Noack - [jonock_](https://twitter.com/jonock_) bei Twitter.  
 
-<a href="https://twitter.com/jonock_?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @jonock_</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 [Mail](mailto:jonathan@jonock.ch) für Fragen und Verbesserungsvorschläge.  
