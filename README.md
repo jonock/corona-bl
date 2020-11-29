@@ -7,7 +7,8 @@
 
 
 Weitere Statistiken zur Corona-Pandemie in der Schweiz gibt es unter [corona-data.ch](https://corona-data.ch).   
-Informationen zur Situation im Kanton Basel-Land gibt es auf der [Website des Kantons](https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles) 
+Informationen zur Situation im Kanton Basel-Land gibt es auf der [Website des Kantons](https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles).
+
 
 --- 
 
