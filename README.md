@@ -7,4 +7,7 @@
 
 
 ___
-Corona-BL.ch basiert auf den Daten des Kantons Basel-Landschaft. Die Bevölkerungsdaten stammen vom Statistischen Amt Basel-Landschaft. 
+Corona-BL.ch basiert auf den Daten des Kantons Basel-Landschaft. Die Bevölkerungsdaten stammen vom Statistischen Amt Basel-Landschaft.
+
+Diese Seite wurde gebaut von Jonathan Noack - [jonock_](https://twitter.com/jonock_) bei Twitter
+[Mail](mailto:jonathan@jonock.ch) für Fragen und Verbesserungsvorschläge.
