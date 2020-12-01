@@ -12,7 +12,7 @@ Informationen zur Situation im Kanton Basel-Land gibt es auf der [Website des Ka
 
 --- 
 
-Corona-BL.ch basiert auf den Daten des Kantons Basel-Landschaft. Die Bevölkerungsdaten stammen vom Statistischen Amt Basel-Landschaft.  
+Corona-BL.ch basiert auf den Daten des Kantons Basel-Landschaft.
 
 Diese Seite wurde gebaut von Jonathan Noack - [jonock_](https://twitter.com/jonock_) bei Twitter.  
 
@@ -21,7 +21,7 @@ Diese Seite wurde gebaut von Jonathan Noack - [jonock_](https://twitter.com/jono
 
 --- 
 
-## Medienberichte zur Situation in den Gemeinden
+## Hintergründe zur Situation in den Gemeinden
 
 **SRF Regionaljournal Basel vom 26. November:**  
 «Warum der Bezirk Liestal die höchsten Corona-Zahlen hat.»
