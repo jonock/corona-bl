@@ -18,11 +18,4 @@ Diese Seite wurde gebaut von Jonathan Noack - [jonock_](https://twitter.com/jono
 [Mail](mailto:jonathan@jonock.ch) für Fragen und Verbesserungsvorschläge.  
 
 
---- 
 
-## Hintergründe zur Situation in den Gemeinden
-
-**SRF Regionaljournal Basel vom 26. November:**  
-«Warum der Bezirk Liestal die höchsten Corona-Zahlen hat.»
-  
-<iframe src='//tp.srgssr.ch/p/srf/embed?urn=urn:srf:audio:a8524590-280b-4ac2-9dde-a33863b4dc34&start=51' allowfullscreen width='392' height='58' frameborder='1' name='Warum der Bezirk Liestal die höchsten Corona-Zahlen hat.' allow="geolocation *; autoplay; encrypted-media"></iframe>
