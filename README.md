@@ -1,8 +1,8 @@
+# Hallo!
 
+Diese kleine Website wurde im 2020 gestartet, um rasch und unkompliziert tagesaktuelle Statistiken bereitzustellen. Mittlerweile hat der Kanton Basel-Landschaft ein eigenes Portal mit Statistiken zu Covid aufgebaut, auf welches ich hier verweise:
 
-
-<iframe title="14-Tage Inzidenz im Kanton BL nach Gemeinden" aria-label="map" id="datawrapper-chart-59AH4" src="https://datawrapper.dwcdn.net/59AH4/10/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="457"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
-</script>
+[Covid-Statistiken nach Gemeinden in BL](https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft/covid-19-faelle-bl-nach-gemeinde)
 
 
 Weitere Statistiken zur Corona-Pandemie in der Schweiz gibt es unter [corona-data.ch](https://corona-data.ch).   
